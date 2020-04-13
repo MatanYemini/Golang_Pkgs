@@ -1,2 +1,2 @@
-# Golang_Pkgs
+# golang_playground
 Golang playground
